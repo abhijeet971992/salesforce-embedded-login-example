@@ -8,27 +8,27 @@
     "env" :{
       "APP_ID" : {
         "description": "The Consumer Key of your Salesforce Connected App",
-        "value": "Your value here"
+        "value": "3MVG9qbIpUScOGtbvEw.t6TsBP1CVnvisHYDA59v.ajPGMgf6IuAEIpanFomLTKoepvhUBs94ho_ISt7tvcbV"
       },
       "APP_SECRET" : {
         "description": "The Consumer Secret of your Salesforce Connected App",
-        "value": "Your value here"
+        "value": "37DADF0132B5B001A0349508E9AD3232BF7F7D806AF0426D2D8BE6243076178E"
       },
       "COMMUNITY_URL" : {
         "description": "The URL to your community, without any trailing characters.",
-        "value": "Your value here"
+        "value": "https://mjladev-jiffylube.cs94.force.com/poccommunity"
       },
       "OAUTH_CALLBACK_URL" : {
         "description": "The URL to your Heroku app's callback, without any trailing characters.",
-        "value": "https://your.herokuapp.com/server_callback"
+        "value": "https://mjlapoc.heroku.com/server_callback"
       },
       "HOSTED_APP_URL" : {
         "description": "The URL to your Heroku app, without any trailing characters.",
-        "value": "https://your.herokuapp.com"
+        "value": "https://mjlapoc.heroku.com"
       },
       "BG_FAKE" : {
         "description": "The URL to your community, without any trailing characters.",
-        "value": "Your value here"
+        "value": "https://mjladev-jiffylube.cs94.force.com/poccommunity"
       },
       "STATIC_ASSET_URL" : {
         "description": "The URL to your hosted version of sfdc_authmagic.js from the repo.",
