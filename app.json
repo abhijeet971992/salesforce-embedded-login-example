@@ -32,7 +32,7 @@
       },
       "STATIC_ASSET_URL" : {
         "description": "The URL to your hosted version of sfdc_authmagic.js from the repo.",
-        "value": "Your value here"
+        "value": "https://jiffylube--mjladev--c.visualforce.com/resource/1640010385000/sfdc_authmagic"
       }
     }
   }
