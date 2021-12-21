@@ -1,7 +1,7 @@
 {
     "name": "Salesforce Embedded Login Example",
     "description": "An end-to-end example of Salesforce Embedded Log In, leveraging the Salesforce Identity for Customers (CIAM) product",
-    "repository": "https://github.com/frankcaron/salesforce-embedded-login-example.git",
+    "repository": "https://github.com/abhijeet971992/salesforce-embedded-login-example.git",
     "logo": "",
     "keywords": ["node", "express", "heroku", "salesforce"],
     "image": "heroku/nodejs",
@@ -20,7 +20,7 @@
       },
       "OAUTH_CALLBACK_URL" : {
         "description": "The URL to your Heroku app's callback, without any trailing characters.",
-        "value": "https://mjlapoc.heroku.com/server_callback"
+        "value": "https://mjlapoc.heroku.com/_callback"
       },
       "HOSTED_APP_URL" : {
         "description": "The URL to your Heroku app, without any trailing characters.",
