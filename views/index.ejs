@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>
-        Salesforce Embedded Log In Test Site
+        MjlaPoc
     </title>
 
     <!-- Style -->
@@ -36,16 +36,12 @@
 
     <!-- Salesforce Embedded Log In External Files -->
     <link href="<%= community_url%>/servlet/servlet.loginwidgetcontroller?type=css" rel="stylesheet" type="text/css" /> 
-    <script src="<%= community_url%>/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script> 
+    <script src="<%= community_url%>/servlet/servlet.loginwidgetcontroller?type=javascript_widget&min=false" async defer></script> 
     <!-- <script src="<%= static_asset_url %>" async defer></script> --> 
     <!-- --> 
 
 </head>
 <body>
-    <div class="index-container" style="background-image: url('<%= background%>');">
-        <div id="salesforce-login"></div>
-    </div>
-
-    
+    <div id="salesforce-login">Div</div>
 </body>
 </html>
